@@ -1,4 +1,4 @@
-# ML-Notes
+# Machine Learning Course Notes
 Course Notes of Machine Learning and Data Mining took at UCR (Fall 2019)
 Taught by Prof. C.Shelton
 
